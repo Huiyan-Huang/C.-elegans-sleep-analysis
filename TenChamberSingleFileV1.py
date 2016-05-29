@@ -17,7 +17,7 @@ import os
 import matplotlib.pyplot as plt
 
 path=r'C:\Users\Hart_E5430\Desktop\Winnie\10 chamber analysis\2016.05.05.WH.L4440.cct-6.12h.P.txt'
-ChamberN=8
+ChamberN=10
 
 #This module assigns the worm status with 1 (quiescent) or 0 (moving).
 #It reads the path file into two lists:
